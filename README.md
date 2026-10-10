@@ -1,5 +1,3 @@
-# Player Spawn Fix
-
 Player Spawn Fix improves the initial Overworld spawn and keeps unwanted structures away from the spawn area.
 
 ## Features
